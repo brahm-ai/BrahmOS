@@ -1,5 +1,6 @@
 # BrahmOS
 Convert your Ubuntu system to something more modern and linux beginner freindly.
+Based on Gnome40, wayland supporting, great default apps, greater theme.
 
 
 ### Installation instructions 
@@ -26,3 +27,6 @@ Now, go back to this repositorie's code and run to install recomended apps:
 
 ### You're done, enjoy BrahmOS.
 Visit us @ [Brahm.ai](http://brahm.ai)
+
+### Attribution
+We thank all the people who've made some of the themes used in this project.
