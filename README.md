@@ -11,7 +11,7 @@ Based on Gnome40, wayland supporting, great default apps, greater theme.
 
 Clone this repository or download and unzip the code.
 Open a terminal and go to the folder where your code is and type this: 
-`sudo ./looks.sh`
+`sudo sh looks.sh`
 Your computer will reboot.
 
 After is turns on, change desktop session to gnome.
@@ -26,7 +26,7 @@ After that, open up gnome tweak tool, go to 'Appearance', and change the setting
 ### Installing some Gnome Apps
 
 Now, go back to this repositorie's code and run to install recomended apps:
-`./apps.sh`
+`sudo sh apps.sh`
 
 
 ### You're done, enjoy BrahmOS.
