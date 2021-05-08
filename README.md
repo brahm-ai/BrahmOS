@@ -2,6 +2,10 @@
 Convert your Ubuntu system to something more modern and linux beginner freindly.
 Based on Gnome40, wayland supporting, great default apps, greater theme.
 
+### Prerequisites:
+
+1. User Themes shell extension
+
 
 ### Installation instructions 
 
